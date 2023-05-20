@@ -1,14 +1,8 @@
-import turtle
+import pygame
 
-wn = turtle.Screen()
+pygame.init()
+screen = pygame.display.set_mode((400,500))
 
-wn.title("Snake game")
-
-wn.setup(width=600, height=600)
-
-wn.bgcolor('light green')
-
-head = turtle.Turtle()
-
-
-turtle.done()
+while True:
+    
+    pygame.display.update()
