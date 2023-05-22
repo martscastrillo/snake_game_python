@@ -1,5 +1,4 @@
 # snake_game_python
+<img width="630" height="426" alt="gif" src="https://github.com/martscastrillo/snake_game_python/assets/112553001/9ee66e70-9808-4209-8d1f-bccf47ccd183">
 
-
-https://github.com/martscastrillo/snake_game_python/assets/112553001/5612d5ee-5960-43af-9f0d-31b50776a03f
 
